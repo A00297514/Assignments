@@ -9,4 +9,11 @@ at around 1:25pm hit the wrong command "$dotnet new api --use-controller". It hs
 
 at 1:31pm deleted weatherforecast files from controllers and repository.
 
-at 1:48 pm stopped and video lecture is paused at 1:15:35. 
+at 1:48 pm stopped and video lecture is paused at 1:15:35.
+
+on 1st feb 2024 at 7:30 pm encountered the following error
+error CS0029: Cannot implicitly convert type 'decimal' to 'string'
+
+tried https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-messages/cs0029
+and found that forgot to change the return statement on other methods....solved at 7:45 pm
+
